@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\trick\AndroidStudioProjects\4TestingTesseract\opencv\.cxx\Debug\6r252s5u\x86'
+ninja: no work to do.

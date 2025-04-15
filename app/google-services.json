@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "267954037880",
+    "firebase_url": "https://liliw-8fe3e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "liliw-8fe3e",
+    "storage_bucket": "liliw-8fe3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267954037880:android:d0533a4b48e7161acb798d",
+        "android_client_info": {
+          "package_name": "com.example.opencvandfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhsbCMSkoRVSYmdkjPmlxReI0aiQ6x3e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

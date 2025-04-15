@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OpencvAndFirebase" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- You can define your primary color here if needed -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">@color/white</item> <!-- or any other background color -->
+    </style>
+
+    <style name="Theme.OpencvAndFirebase" parent="Base.Theme.OpencvAndFirebase" />
+
+    <!-- Transparent Toolbar Style -->
+    <style name="TransparentToolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>

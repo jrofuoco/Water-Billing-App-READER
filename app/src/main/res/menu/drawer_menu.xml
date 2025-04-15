@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bagong_anyo"
+        android:title="Bagong Anyo" />
+    <item
+        android:id="@+id/bayate"
+        android:title="Bayate" />
+    <item
+        android:id="@+id/bongkol"
+        android:title="Bongkol" />
+    <item
+        android:id="@+id/bubukal"
+        android:title="Bubukal" />
+    <item
+        android:id="@+id/cabuyew"
+        android:title="Cabuyew" />
+    <item
+        android:id="@+id/calumpang"
+        android:title="Calumpang" />
+    <item
+        android:id="@+id/san_isidro1"
+        android:title="San Isidro" />
+    <item
+        android:id="@+id/culoy"
+        android:title="Culoy" />
+    <item
+        android:id="@+id/dagatan"
+        android:title="Dagatan" />
+    <item
+        android:id="@+id/daniw"
+        android:title="Daniw" />
+    <item
+        android:id="@+id/dita"
+        android:title="Dita" />
+    <item
+        android:id="@+id/ibabang_palina"
+        android:title="Ibabang Palina" />
+    <item
+        android:id="@+id/ibabang_san_roque"
+        android:title="Ibabang San Roque" />
+    <item
+        android:id="@+id/ibabang_sungi"
+        android:title="Ibabang Sungi" />
+    <item
+        android:id="@+id/ibabang_taykin"
+        android:title="Ibabang Taykin" />
+    <item
+        android:id="@+id/ilayang_palina"
+        android:title="Ilayang Palina" />
+    <item
+        android:id="@+id/ilayang_san_roque"
+        android:title="Ilayang San Roque" />
+    <item
+        android:id="@+id/ilayang_sungi"
+        android:title="Ilayang Sungi" />
+    <item
+        android:id="@+id/ilayang_taykin"
+        android:title="Ilayang Taykin" />
+    <item
+        android:id="@+id/kanlurang_bukal"
+        android:title="Kanlurang Bukal" />
+    <item
+        android:id="@+id/laguan"
+        android:title="Laguan" />
+    <item
+        android:id="@+id/luquin"
+        android:title="Luquin" />
+    <item
+        android:id="@+id/malabo_kalantukan"
+        android:title="Malabo-Kalantukan" />
+    <item
+        android:id="@+id/masikap"
+        android:title="Masikap" />
+    <item
+        android:id="@+id/maslun"
+        android:title="Maslun" />
+    <item
+        android:id="@+id/mojon"
+        android:title="Mojon" />
+    <item
+        android:id="@+id/novaliches"
+        android:title="Novaliches" />
+    <item
+        android:id="@+id/oples"
+        android:title="Oples" />
+    <item
+        android:id="@+id/pag_asa"
+        android:title="Pag-asa" />
+    <item
+        android:id="@+id/palayan"
+        android:title="Palayan" />
+    <item
+        android:id="@+id/rizal"
+        android:title="Rizal" />
+    <item
+        android:id="@+id/san_isidro2"
+        android:title="San Isidro" />
+    <item
+        android:id="@+id/silangang_bukal"
+        android:title="Silangang Bukal" />
+    <item
+        android:id="@+id/tuy_baanan"
+        android:title="Tuy-Baanan" />
+</menu>
+
